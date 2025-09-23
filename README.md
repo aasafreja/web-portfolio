@@ -23,12 +23,12 @@ Each project highlights modern development practices, responsive design, and att
 
 ## Projects
 
-### [Quiz App] (https://github.com/aasafreja/quiz-app) 
+### [Quiz App](https://github.com/aasafreja/quiz-app) 
 - A React quiz application with selectable **difficulty**, **category**, and **number of questions**.  
 - Interactive UI with progress bar, answer feedback, and detailed results.  
 - Highlights API integration and React state management.
 
-### [NASA Event Tracker] (https://github.com/aasafreja/event-tracker) 
+### [NASA Event Tracker](https://github.com/aasafreja/event-tracker) 
 - A React app tracking **wildfires** and **volcanic eruptions** using NASA’s EONET API.
 - Displays events on **Google Maps** with custom icons and info popups.  
 - Highlights dynamic data rendering and interactive visualization.
