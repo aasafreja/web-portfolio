@@ -21,7 +21,7 @@ Each project highlights modern development practices, responsive design, and att
 
 ---
 
-## Projects
+## Frontend Projects
 
 ### [Quiz App](https://github.com/aasafreja/quiz-app) 
 - A React quiz application with selectable **difficulty**, **category**, and **number of questions**.  
