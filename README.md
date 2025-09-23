@@ -28,6 +28,11 @@ Each project highlights modern development practices, responsive design, and att
 - Features a world clock, stopwatch, and timer with dynamic updates.
 - Includes a responsive and intuitive UI with real-time updates every minute.
 
+### [Movie Explorer App](https://github.com/aasafreja/movie-app)
+- A **React + Vite** application for browsing and searching movies.
+- Fetches data from the **TMDB API** and allows users to **save favorite movies** locally.
+- Features a responsive UI with **React Router** and **Context API** for global state.
+- Highlights modern React practices, dynamic data fetching, and user-friendly interactions.
 
 ---
 
