@@ -52,7 +52,3 @@ Git/GitHub, VS Code, npm, Postman, Chrome DevTools, Netlify, Vercel
 
 ---
 
-## Contact
-
-I am open to freelance opportunities, part-time, or full-time roles in **front-end or full-stack web development**.  
-Feel free to check out my GitHub repositories or reach out via email.
