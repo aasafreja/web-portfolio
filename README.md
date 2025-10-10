@@ -7,7 +7,7 @@ I enjoy turning creative designs into functional, performant websites and web ap
 
 ## Objective
 
-This portfolio showcases my **web development projects**, demonstrating my skills with **React, Node.js, HTML, CSS, and JavaScript**.  
+This portfolio (still developing) showcases my **web development projects**, demonstrating my skills with **React, Node.js, HTML, CSS, and JavaScript**.  
 Each project highlights modern development practices, responsive design, and attention to detail.
 
 ---
