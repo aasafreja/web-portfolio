@@ -46,7 +46,8 @@ Each project highlights modern development practices, responsive design, and att
 
 ---
 ## Full-stack Projects
-(coming soon)
+coming soon...
+
 ---
 ## Vanilla JS Projects
 ### [Weather App](https://github.com/aasafreja/weather-app) 
