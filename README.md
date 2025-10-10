@@ -46,6 +46,9 @@ Each project highlights modern development practices, responsive design, and att
 
 ---
 ## Full-stack Projects
+
+---
+## Vanilla JS Projects
 ---
 ## Tools & Platforms
 
