@@ -45,7 +45,8 @@ Each project highlights modern development practices, responsive design, and att
 - Includes a responsive and intuitive UI with real-time updates every minute.
 
 ---
-
+## Full-stack Projects
+---
 ## Tools & Platforms
 
 Git/GitHub, VS Code, npm, Postman, Chrome DevTools, Netlify, Vercel  
