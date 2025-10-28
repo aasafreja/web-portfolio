@@ -46,7 +46,15 @@ Each project highlights modern development practices, responsive design, and att
 
 ---
 ## Full-stack Projects
-coming soon...
+
+### [Kanban Board – Full-Stack JavaScript (Express + Vanilla JS)](https://github.com/aasafreja/kanban-board)
+CRUD boards and tasks with drag-and-drop support, JSON persistence, and dynamic UI updates.
+
+Built a **full-stack Kanban board** using **Express**, **modular Vanilla JavaScript**, and **REST APIs**.  
+Implemented:
+- Board and task CRUD operations  
+- Drag-and-drop between boards for task management  
+- JSON-based persistence to simulate database operations  
 
 ---
 ## Vanilla JS Projects
@@ -60,7 +68,7 @@ coming soon...
 ---
 ## Tools & Platforms
 
-Git/GitHub, VS Code, npm, Postman, Chrome DevTools, Netlify, Vercel  
+Git/GitHub, VS Code, npm, Postman, Chrome DevTools
 
 ---
 
