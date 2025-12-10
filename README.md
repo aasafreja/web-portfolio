@@ -47,6 +47,12 @@ Each project highlights modern development practices, responsive design, and att
 ---
 ## Full-stack Projects
 
+### [SnapNotes - note-taking application built with React and Node.js](https://github.com/aasafreja/note-taking-app)
+
+- Features secure JWT authentication, protected REST API, full CRUD operations with PostgreSQL (Neon), and cloud-based image storage via Supabase.
+- Frontend and backend are deployed separately (Netlify + Render) with production-level configuration, CORS handling, and environment-based setup.
+
+
 ### [Kanban Board – Full-Stack JavaScript (Express + Vanilla JS)](https://github.com/aasafreja/kanban-board)
 CRUD boards and tasks with drag-and-drop support, JSON persistence, and dynamic UI updates.
 
