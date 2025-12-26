@@ -20,7 +20,24 @@ Each project highlights modern development practices, responsive design, and att
 - **Other:** SQL, Data Handling, Debugging, Deployment (Netlify, Vercel)
 
 ---
+## Full-stack Projects
 
+### [SnapNotes - note-taking application built with React and Node.js](https://github.com/aasafreja/note-taking-app)
+
+- Features secure JWT authentication, protected REST API, full CRUD operations with PostgreSQL (Neon), and cloud-based image storage via Supabase.
+- Frontend and backend are deployed separately (Netlify + Render) with production-level configuration, CORS handling, and environment-based setup.
+
+
+### [Kanban Board – Full-Stack JavaScript (Express + Vanilla JS)](https://github.com/aasafreja/kanban-board)
+CRUD boards and tasks with drag-and-drop support, JSON persistence, and dynamic UI updates.
+
+Built a **full-stack Kanban board** using **Express**, **modular Vanilla JavaScript**, and **REST APIs**.  
+Implemented:
+- Board and task CRUD operations  
+- Drag-and-drop between boards for task management  
+- JSON-based persistence to simulate database operations
+
+---
 ## Frontend Projects
 
 ### [Quiz App](https://github.com/aasafreja/quiz-app) 
@@ -43,25 +60,6 @@ Each project highlights modern development practices, responsive design, and att
 - Built with **React** and **CSS**.  
 - Features a world clock, stopwatch, and timer with dynamic updates.
 - Includes a responsive and intuitive UI with real-time updates every minute.
-
----
-## Full-stack Projects
-
-### [SnapNotes - note-taking application built with React and Node.js](https://github.com/aasafreja/note-taking-app)
-
-- Features secure JWT authentication, protected REST API, full CRUD operations with PostgreSQL (Neon), and cloud-based image storage via Supabase.
-- Frontend and backend are deployed separately (Netlify + Render) with production-level configuration, CORS handling, and environment-based setup.
-
-
-### [Kanban Board – Full-Stack JavaScript (Express + Vanilla JS)](https://github.com/aasafreja/kanban-board)
-CRUD boards and tasks with drag-and-drop support, JSON persistence, and dynamic UI updates.
-
-Built a **full-stack Kanban board** using **Express**, **modular Vanilla JavaScript**, and **REST APIs**.  
-Implemented:
-- Board and task CRUD operations  
-- Drag-and-drop between boards for task management  
-- JSON-based persistence to simulate database operations  
-
 ---
 ## Vanilla JS Projects
 ### [Weather App](https://github.com/aasafreja/weather-app) 
