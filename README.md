@@ -20,6 +20,24 @@ Each project highlights modern development practices, responsive design, and att
 - **Other:** SQL, Data Handling, Debugging, Deployment (Netlify, Vercel)
 
 ---
+
+## Commercial Projects
+
+### [Beany's Bakery — Landing Page & Order System](https://github.com/aasafreja/bbakery-website)
+**Freelance project** for a home-based cheesecake bakery in Riga, Latvia.
+
+* Built a modern single-page application with React, Vite, and Tailwind CSS
+* Implemented **dual notification system** using Netlify Functions, Telegram Bot API, and Formspree
+* Created **interactive Cake Builder** with 5-step custom configuration and conditional form logic
+* Designed serverless architecture with automatic fallback for order reliability
+* Features responsive design, toast notifications, and WhatsApp/Instagram integration
+
+**Tech Stack:** React, Tailwind CSS, Netlify Functions, Telegram Bot API, Formspree  
+**Live Site:** [beanysbakery](https://bbakery-cheesecakes.netlify.app/) | [View Details]([./beanysbakery-portfolio](https://github.com/aasafreja/bbakery-website)
+
+> *Repository is private to protect client confidentiality. Code samples available upon request.*
+
+---
 ## Full-stack Projects
 
 ### [SnapNotes - note-taking application built with React and Node.js](https://github.com/aasafreja/note-taking-app)
