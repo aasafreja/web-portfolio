@@ -33,7 +33,7 @@ Each project highlights modern development practices, responsive design, and att
 * Features responsive design, toast notifications, and WhatsApp/Instagram integration
 
 **Tech Stack:** React, Tailwind CSS, Netlify Functions, Telegram Bot API, Formspree  
-**Live Site:** [beanysbakery](https://bbakery-cheesecakes.netlify.app/) | [View Details]([./beanysbakery-portfolio](https://github.com/aasafreja/bbakery-website)
+**Live Site:** [beanysbakery](https://bbakery-cheesecakes.netlify.app/) | [View Details](https://github.com/aasafreja/bbakery-website)
 
 > *Repository is private to protect client confidentiality. Code samples available upon request.*
 
