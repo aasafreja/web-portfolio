@@ -30,7 +30,7 @@ Each project highlights modern development practices, responsive design, and att
 * Implemented **dual notification system** using Netlify Functions, Telegram Bot API, and Formspree
 * Created **interactive Cake Builder** with 5-step custom configuration and conditional form logic
 * Designed serverless architecture with automatic fallback for order reliability
-* Features responsive design, toast notifications, and WhatsApp/Instagram integration
+* Features responsive design, toast notifications
 
 **Tech Stack:** React, Tailwind CSS, Netlify Functions, Telegram Bot API, Formspree  
 **Live Site:** [beanysbakery](https://bbakery-cheesecakes.netlify.app/) | [View Details](https://github.com/aasafreja/bbakery-website)
