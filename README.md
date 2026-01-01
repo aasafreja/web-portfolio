@@ -1,6 +1,6 @@
 # Hi there, I'm Anete 👋
 
-I am a **Front-End and Full-Stack Developer** passionate about building responsive, user-friendly web applications.  
+I am a **Full-Stack Developer** passionate about building responsive, user-friendly web applications.  
 I enjoy turning creative designs into functional, performant websites and web apps.
 
 ---
